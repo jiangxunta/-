@@ -1,4 +1,6 @@
-# cd ~/.ssh 
+```
+cd ~/.ssh
+```
 - 报错 -bash: cd: /Users/jiangfufan/.ssh: No such file or directory
 - 执行下面命令
 ```
